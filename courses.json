@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "C++ (C plus plus)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg",
+        "total": 8
+    },
+    {
+        "id": 2,
+        "name": "Java",
+        "logo": "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png",
+        "total": 9
+    },
+    {
+        "id": 3,
+        "name": "JavaScript",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
+        "total": 9
+    },
+    {
+        "id": 4,
+        "name": "Python",
+        "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+        "total": 8
+    },
+    {
+        "id": 5,
+        "name": "Ruby",
+        "logo": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+        "total": 11
+    },
+    {
+        "id": 6,
+        "name": "Git",
+        "logo": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+        "total": 11
+    }
+]
