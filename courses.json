@@ -20,13 +20,13 @@
     {
         "id": 4,
         "name": "Python",
-        "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Python_logo_52.svg",
         "total": 8
     },
     {
         "id": 5,
         "name": "Ruby",
-        "logo": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg",
         "total": 11
     },
     {
