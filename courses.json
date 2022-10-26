@@ -3,36 +3,60 @@
         "id": 1,
         "name": "C++ (C plus plus)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg",
-        "total": 8
+        "total": 8,
+        "details":"C++ implementations provide at least 8, 16, 32, and 64-bit signed and unsigned integer types. There are annoying implicit conversions, discussions about undefined behavior on overflow (some think it’s too much UB, others think it’s not enough), but for the most part they do the job well. Newer languages like Rust copied that design, but fixed the conversions and overflow behavior.",
+          "ratings": 3.9,
+        "learner":95,
+        "instructor":"Rahul"
     },
     {
         "id": 2,
         "name": "Java",
         "logo": "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png",
-        "total": 9
+        "total": 9,
+        "details":"This Java online course with a certificate is a good start for beginners who want to learn the basics of Java. You will first get briefly introduced to the Java Programming language, followed by information on Java IDE installation. You will go through different concepts like variables, data types, operators, arrays, flow control statements, and functions with appropriate code examples.You will also have the opportunity to get started with the first Java program in detail and step into the initial stage of Java programming. Enroll in this free Java online course, complete the quiz, and gain a free certificate of course completion.Interested in learning advanced software skills? Great Learning offers top-class Software Development Courses. Enroll in the paid programs of your choice and earn highly valued certificates.",
+          "ratings": 3.9,
+        "learner":95,
+        "instructor":"John Chart"
     },
     {
         "id": 3,
         "name": "JavaScript",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
-        "total": 9
+        "total": 9,
+        "details":"JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.This section is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments. For information about APIs that are specific to Web pages, please see Web APIs and DOM.",
+          "ratings": 4.5,
+        "learner":89,
+        "instructor":"Kreet Lean"
     },
     {
         "id": 4,
         "name": "Python",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Python_logo_52.svg",
-        "total": 8
+        "total": 8,
+        "details":"If you want to know whether a particular application, or a library with particular functionality, is available in Python there are a number of possible sources of information. The Python web site provides a Python Package Index (also known as the Cheese Shop, a reference to the Monty Python script of that name). There is also a search page for a number of sources of Python-related information. Failing that, just Google for a phrase including the word ''python'' and you may well get the result you need. If all else fails, ask on the python newsgroup and there's a good chance someone will put you on the right track.",
+          "ratings": 3.6,
+        "learner":90,
+        "instructor":"Tony Brazim"
     },
     {
         "id": 5,
-        "name": "Ruby",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg",
-        "total": 11
+        "name": "HTML & CSS",
+        "logo": "https://www.pngitem.com/pimgs/b/391-3917813_houzz-icon-png.png",
+        "total": 11,
+        "details":"You should learn the basics of HTML before attempting any CSS. We recommend that you work through our Introduction to HTML module first.Once you understand the fundamentals of HTML, we recommend that you learn further HTML and CSS at the same time, moving back and forth between the two topics. This is because HTML is far more interesting and much more fun to learn when you apply CSS, and you can't learn CSS without knowing HTML.Before starting this topic, you should also be familiar with using computers and using the web passively (i.e., just looking at it, consuming the content). You should have a basic work environment set up, as detailed in Installing basic software, and understand how to create and manage files, as detailed in Dealing with files — both of which are parts of our Getting started with the web complete beginner's module.It is also recommended that you work through Getting started with the web before proceeding with this topic, especially if you are completely new to web development. However, much of what is covered in its CSS basics article is also covered in our CSS first steps module, albeit in a lot more detail.",
+          "ratings": 2.1,
+        "learner":95,
+        "instructor":"Steve Messi"
     },
     {
         "id": 6,
         "name": "Git",
         "logo": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
-        "total": 11
+        "total": 11,
+        "details":"Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.",
+          "ratings": 4.9,
+        "learner":76,
+        "instructor":"Eden Haaland"
     }
 ]
