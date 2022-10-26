@@ -14,6 +14,14 @@ app.get('/courses', (req, res) => {
   res.send(courses)
 })
 
+app.get('/courses/:id', (req, res) => {
+  const id = req.params.id;
+  console.log(id);
+  const course = courses.find(singleCourse => singleCourse.id == id);
+  res.send(course)
+
+})
+
 app.listen(port, () => {
   console.log("Learning Platform file reloading");
 });
